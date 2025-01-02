@@ -1,0 +1,12 @@
+C:\RISET\CleanArchitectureOData\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\RISET\CleanArchitectureOData\Domain\bin\Debug\net8.0\Domain.dll
+C:\RISET\CleanArchitectureOData\Domain\bin\Debug\net8.0\Domain.pdb
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\Domain.dll
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\Domain.pdb
+C:\RISET\CleanArchitectureOData\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+C:\RISET\CleanArchitectureOData\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\RISET\CleanArchitectureOData\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+C:\RISET\CleanArchitectureOData\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\RISET\CleanArchitectureOData\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\RISET\CleanArchitectureOData\Presentation\bin\Debug\net8.0\Domain.dll
+C:\RISET\CleanArchitectureOData\Presentation\bin\Debug\net8.0\Domain.pdb
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+C:\RISET\CleanArchitectureOData\Presentation\obj\Debug\net8.0\ref\Presentation.dll
